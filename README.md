@@ -4,7 +4,7 @@
   <br />
   <br />
 
-  <h1>Sae News — Enterprise Digital Publishing & Educational Portal</h1>
+  <h1>Sae News</h1>
   
   <p>
     <strong>Platform jurnalisme dan literasi digital modern dengan fokus pada performa tinggi, pengalaman membaca imersif, moderasi konten cerdas, algoritma audit SEO real-time, serta ekosistem monetisasi berkelanjutan.</strong>
