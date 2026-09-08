@@ -213,3 +213,4 @@ Sae News/
 └── routes/
     └── web.php                # Definisi rute aplikasi & pengelompokan middleware
 ```
+  <img src="2.png" alt="Sae News Preview" width="100%" />
